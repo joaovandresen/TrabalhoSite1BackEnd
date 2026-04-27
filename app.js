@@ -9,7 +9,7 @@ switcher.addEventListener('click', function(){
     let nomeDaClasse = document.body.className;
     if (nomeDaClasse.includes("tema-claro")){
         this.textContent = "Escuro";
-    } else {
+    } else{
         this.textContent = "Claro";
     }
 });
