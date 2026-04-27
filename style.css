@@ -55,4 +55,4 @@ li {
     background-Color: var(--btnBg);
 }
 
-.botao:focus {outline-style: none};
+.botao:focus {outline-style: none;}
